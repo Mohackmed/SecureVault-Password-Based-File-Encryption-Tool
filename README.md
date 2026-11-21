@@ -266,9 +266,9 @@ The application should be tested against the following scenarios:
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+**Mohamed Abdullah R**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Mohackmed
 
 ## 📄 License
 
